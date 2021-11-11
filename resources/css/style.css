@@ -1,10 +1,13 @@
 body {
   font-family: Verdana;
-  font-size: 50px;
-  font-weight: normal;
   text-align: center;
   background-color: black;
   color: white;
+}
+h1{
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
 }
 h2{
   font-family: Verdana;
